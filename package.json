@@ -1,0 +1,29 @@
+{
+  "name": "roraima-color-theme",
+  "displayName": "Roraima Color Theme",
+  "description": "Codegrate's Roraima Theme migration",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thermosflasche/roraima-color-theme"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "red"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Roraima",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Roraima-color-theme.json"
+      }
+    ]
+  }
+}

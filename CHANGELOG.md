@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.2]
+
+- Improved first version
+- Added new version created from [the color palette](https://plugins.jetbrains.com/plugin/22961-roraima-theme)
+
 ## [0.0.1]
 
 - Initial release.

@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/thermosflasche/roraima-color-theme"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -23,7 +23,12 @@
       {
         "label": "Roraima",
         "uiTheme": "vs-dark",
-        "path": "./themes/Roraima-color-theme.json"
+        "path": "./themes/roraima-color-theme.json"
+      },
+      {
+        "label": "Roraima Palette",
+        "uiTheme": "vs-dark",
+        "path": "./themes/roraima-color-theme.palette.json"
       }
     ]
   }
